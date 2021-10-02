@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zafeer-Rangoonwala
-- 👀 I’m interested in coding, JAVA, Open source 
+- 👀 I’m interested in JAVA, Open source 
 - 🌱 I’m currently learning DSA and open source
 - 💞️ I’m looking to collaborate on different beginner friendly open source issues 
 - 📫 How to reach me 
