@@ -1,4 +1,4 @@
-# Welcome   <img width="175" alt="Zafeer" src="https://user-images.githubusercontent.com/86530605/149382196-688b3501-f26c-4f17-89b8-3493764c0fe5.png">
+# Welcome   
 - 👋 Hi, I’m @Zafeer-Rangoonwala
 - 👀 I’m interested in *JAVA, Open source* and *DSA*
 - 🌱 I’m currently learning DSA and open source from community classroom
