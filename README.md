@@ -16,7 +16,8 @@
 ](zafeer02@gmail.com)  
      - **LinkedIn** : [<img width="24" alt="image" src="https://user-images.githubusercontent.com/86530605/149524566-e0c11f6d-c60a-44e2-aa1d-fd4f875364c9.png">](https://www.linkedin.com/in/zafeer-rangoonwala-0a3a64202/)
      - **Twitter** :[<img width="24" alt="image" src="https://user-images.githubusercontent.com/86530605/149527818-6d4fbb74-41cd-4e41-bb8a-996cc1e7e494.png">](https://twitter.com/zafeer02) 
-     - **LeetCode** : [<img width="24" alt="image" src="https://user-images.githubusercontent.com/86530605/149529363-d0f285ee-0d3b-41a9-9dcf-ac917f45e4fa.png">
+ - I practice DSA at leetcode
+     - [<img width="24" alt="image" src="https://user-images.githubusercontent.com/86530605/149529363-d0f285ee-0d3b-41a9-9dcf-ac917f45e4fa.png">
 ](https://leetcode.com/zafeer_rangoonwala/)
 - Tech Stack
  
